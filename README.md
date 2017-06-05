@@ -1,4 +1,4 @@
-# SharedPreferences
+# SharedPreferences Helper
 ShredPreferences helper class (Android - java)
 
 <b>java class for android programming and use easily form shared preferences in your code.<b>
